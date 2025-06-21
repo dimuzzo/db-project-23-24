@@ -1,5 +1,9 @@
 # Progetto Database: Piattaforma di Food Delivery "Cibora"
 
+![GitHub last commit](https://img.shields.io/github/last-commit/dimuzzo/db-project-23-24?style=flat-square&logo=github&label=Last%20Commit)
+![GitHub repo size](https://img.shields.io/github/repo-size/dimuzzo/db-project-23-24?style=flat-square&logo=github&label=Repo%20Size)
+![GitHub stars](https://img.shields.io/github/stars/dimuzzo/db-project-23-24?style=flat-square&logo=github&label=Stars)
+
 ## Descrizione Generale del Progetto
 
 Questo progetto riguarda la progettazione e la programmazione della base di dati per **Cibora**, un servizio di food delivery innovativo. Il sistema gestirà i dati relativi ai ristoranti affiliati, agli utenti, ai loro ordini e ai fattorini (riders) che effettuano le consegne.
@@ -81,3 +85,7 @@ Una volta al mese, il sistema aggiorna le seguenti classifiche:
 * Cibi più popolari.
 * Ristoranti con più recensioni positive.
 * Clienti che hanno speso di più.
+
+---
+
+> Created with passion by [dimuzzo](https://github.com/dimuzzo)
